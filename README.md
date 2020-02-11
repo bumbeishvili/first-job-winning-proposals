@@ -102,7 +102,7 @@ https://github.com/giorgi-ghviniashvili
 
 
 
-# [1. Beka B.](https://www.upwork.com/fl/beqabumbeishvili)
+# [3. Beka B.](https://www.upwork.com/fl/beqabumbeishvili)
 <table>
   <tr>
      <th>Client paid </th>
