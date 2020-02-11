@@ -2,7 +2,7 @@
 
 
 
-# [David B.](https://www.upwork.com/fl/davitbumbeishvili)
+# 1. [David B.](https://www.upwork.com/fl/davitbumbeishvili)
 <table>
   <tr>
      <th>Client paid </th>
@@ -58,7 +58,7 @@ Please contact , if you decide to hire me for this job
 
 
 
-# [Giorgi G.](https://www.upwork.com/fl/giorgighviniashvili)
+# 2. [Giorgi G.](https://www.upwork.com/fl/giorgighviniashvili)
 <table>
   <tr>
      <th>Client paid </th>
