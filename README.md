@@ -58,16 +58,14 @@ Please contact , if you decide to hire me for this job
 
 
 
-
+# [Giorgi G.](https://www.upwork.com/fl/giorgighviniashvili)
 <table>
   <tr>
-     <th>Freelancer </th>
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
   </tr>
   <tr>
-     <td>https://www.upwork.com/fl/giorgighviniashvili </td>
      <td>30$ </td>
      <td>500$ </td>
      <td> 5-th try </td>
