@@ -110,9 +110,9 @@ https://github.com/giorgi-ghviniashvili
      <th>Trial </th>
   </tr>
   <tr>
-     <td>- </td>
-     <td>- </td>
-     <td>- </td>
+     <td>75$ </td>
+     <td>200$ </td>
+     <td> 5-th try </td>
   </tr>
 </table>
 
