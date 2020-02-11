@@ -142,3 +142,135 @@ I'm a web developer focused on building data visualization with d3.js
 have a look at my projects here -> https://beqa-bumbeishvili.github.io/d3-portfolio/gallery.html
 
 I think fixing described issues will take me 3-4 hours and will be delivered today
+
+
+
+
+
+# [Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>40-$ </td>
+     <td>-$ </td>
+     <td> -th try </td>
+  </tr>
+</table>
+
+### Job Posting 
+> API cv library
+I want to use the cv-library API and list their jobs on my page danky.co.uk.
+
+
+Here is a little more info
+https://www.cv-library.co.uk/developers/job-search-api
+
+###  Winning Proposal
+
+
+# [Vano K.](https://www.upwork.com/fl/vanokhuroshvili)
+<table>
+  <tr>
+     <th>Client paid  </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>3050 $ (Hourly 40$/h) </td>
+     <td>-$ </td>
+     <td> -th try </td>
+  </tr>
+</table>
+
+### Job Posting 
+
+> AngularJS Developer w/ Nodes.js/Express
+
+I am looking for an angularJS developer who has knows nodes.js/express as well.
+Must have
+
+1. solid angular experience
+2. good nodes.js/express experience
+3. good mongo or PostgreSQL experience
+4. good English
+5. understand how to set up development and production environments for MEAN stack.
+###  Winning Proposal
+
+
+# [Giorgi M.](https://www.upwork.com/freelancers/~01e6b2f814dd779311)
+https://www.upwork.com/jobs/~014310df0bae04a63b
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>5-$ </td>
+     <td>-$ </td>
+     <td> -th try </td>
+  </tr>
+</table>
+
+### Job Posting 
+i need someone for delete all posts, pictures, videos, texts etc. on my facebook page.
+At the moment it's a fan-page for jokes.
+It have to be clear of all posts, because i want to change the name of the fansite for my business and i want hold the fans.
+
+please send me your offer for doing this job.
+the facebook-page is:
+
+https://www.facebook.com/DeineDroge?fref=ts
+
+i will make you as admin for the job on the fanpage.
+
+please only send me fix prices.
+
+you can use what you want for delete them (program, script etc.)
+
+###  Winning Proposal
+
+
+# [Alfred T.](https://www.upwork.com/freelancers/~0154374c8ddb169bfd)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>-$ </td>
+     <td>-$ </td>
+     <td> -th try </td>
+  </tr>
+</table>
+
+### Job Posting 
+
+
+###  Winning Proposal
+
+
+# [Tamaz J](https://www.upwork.com/freelancers/~01adf600ffe70b655d)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>-$ </td>
+     <td>-$ </td>
+     <td> -th try </td>
+  </tr>
+</table>
+
+### Job Posting 
+
+
+###  Winning Proposal
+
