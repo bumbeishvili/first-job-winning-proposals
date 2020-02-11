@@ -2,7 +2,7 @@
 
 
 
-# 1. [David B.](https://www.upwork.com/fl/davitbumbeishvili)
+# [1. David B.](https://www.upwork.com/fl/davitbumbeishvili)
 <table>
   <tr>
      <th>Client paid </th>
@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-## Job Posting 
+### Job Posting 
 
 > Organizational Chart using d3.js
 
@@ -34,7 +34,7 @@ If the tasks goes well, I am planning to expand the project and add some additio
 
 Please feel free to ask if you have any doubts in the requirements.
 
-##  Winning Proposal
+###  Winning Proposal
 
 Hi, I have seen your job and I liked it. So , I tried to implement your requests and modified your jsfiddle chart
 
@@ -58,7 +58,7 @@ Please contact , if you decide to hire me for this job
 
 
 
-# 2. [Giorgi G.](https://www.upwork.com/fl/giorgighviniashvili)
+# [2. Giorgi G.](https://www.upwork.com/fl/giorgighviniashvili)
 <table>
   <tr>
      <th>Client paid </th>
@@ -72,7 +72,7 @@ Please contact , if you decide to hire me for this job
   </tr>
 </table>
 
-## Job Posting 
+### Job Posting 
 
 > Create a Dashboard taking data from Eurostat, GDP and main components (output, expenditure and income). 
 
@@ -80,7 +80,7 @@ The dashboard will have two graphs:
 The first one will be a scatterplot with two DropDown boxes for the different indicators. It will have also a slide for the different years in the data.
 The other graph will be a line chart with two DropDown boxes, one for the country and the other for selecting one of the indicators. (hint use Scatter object using mode = 'lines' (more here)
 
-##  Winning Proposal
+###  Winning Proposal
 
 Hello, I have 2 years+ experience working with Python and 2 months experience making a data visualization with d3.js and javascript.
 
