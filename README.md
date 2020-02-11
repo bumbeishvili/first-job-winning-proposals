@@ -53,3 +53,48 @@ If you are interested , you can view my personal web page to get more info about
 http://bumbeishvili.github.io/
 
 Please contact , if you decide to hire me for this job
+
+
+
+
+
+<table>
+  <tr>
+     <th>Freelancer </th>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>https://www.upwork.com/fl/giorgighviniashvili </td>
+     <td>30$ </td>
+     <td>500$ </td>
+     <td> 5-th try </td>
+  </tr>
+</table>
+
+## Job Posting 
+
+> Create a Dashboard taking data from Eurostat, GDP and main components (output, expenditure and income). 
+
+The dashboard will have two graphs:
+The first one will be a scatterplot with two DropDown boxes for the different indicators. It will have also a slide for the different years in the data.
+The other graph will be a line chart with two DropDown boxes, one for the country and the other for selecting one of the indicators. (hint use Scatter object using mode = 'lines' (more here)
+
+##  Winning Proposal
+
+Hello, I have 2 years+ experience working with Python and 2 months experience making a data visualization with d3.js and javascript.
+
+See my work here:
+
+https://codepen.io/devworld/full/VrggOX/
+
+https://codepen.io/devworld/full/GOPJxz/
+
+https://codepen.io/devworld/pen/yPxXqw
+
+https://codepen.io/devworld/pen/OOJZqp
+
+This is my github page:
+
+https://github.com/giorgi-ghviniashvili
