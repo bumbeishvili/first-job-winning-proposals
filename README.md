@@ -144,7 +144,40 @@ have a look at my projects here -> https://beqa-bumbeishvili.github.io/d3-portfo
 I think fixing described issues will take me 3-4 hours and will be delivered today
 
 
+# [4. Giorgi M.](https://www.upwork.com/freelancers/~01e6b2f814dd779311)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>5-$ </td>
+     <td>500-$ </td>
+     <td> 20-th try </td>
+  </tr>
+</table>
 
+### Job Posting 
+i need someone for delete all posts, pictures, videos, texts etc. on my facebook page.
+At the moment it's a fan-page for jokes.
+It have to be clear of all posts, because i want to change the name of the fansite for my business and i want hold the fans.
+
+please send me your offer for doing this job.
+the facebook-page is:
+
+https://www.facebook.com/DeineDroge?fref=ts
+
+i will make you as admin for the job on the fanpage.
+
+please only send me fix prices.
+
+you can use what you want for delete them (program, script etc.)
+
+###  Winning Proposal
+Hello,
+
+Please don't waste 25 $ on this. I can teach you how to do it in 1 min by yourself for 5 bucks and a good feedback : )
 
 
 # [Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
@@ -201,40 +234,7 @@ Must have
 ###  Winning Proposal
 
 
-# [Giorgi M.](https://www.upwork.com/freelancers/~01e6b2f814dd779311)
-<table>
-  <tr>
-     <th>Client paid </th>
-     <th>Current project estimate </th>
-     <th>Trial </th>
-  </tr>
-  <tr>
-     <td>5-$ </td>
-     <td>500-$ </td>
-     <td> 20-th try </td>
-  </tr>
-</table>
 
-### Job Posting 
-i need someone for delete all posts, pictures, videos, texts etc. on my facebook page.
-At the moment it's a fan-page for jokes.
-It have to be clear of all posts, because i want to change the name of the fansite for my business and i want hold the fans.
-
-please send me your offer for doing this job.
-the facebook-page is:
-
-https://www.facebook.com/DeineDroge?fref=ts
-
-i will make you as admin for the job on the fanpage.
-
-please only send me fix prices.
-
-you can use what you want for delete them (program, script etc.)
-
-###  Winning Proposal
-Hello,
-
-Please don't waste 25 $ on this. I can teach you how to do it in 1 min by yourself for 5 bucks and a good feedback : )
 
 # [Alfred T.](https://www.upwork.com/freelancers/~0154374c8ddb169bfd)
 <table>
@@ -255,7 +255,7 @@ Please don't waste 25 $ on this. I can teach you how to do it in 1 min by yourse
 
 ###  Winning Proposal
 
-
+<!--   Template
 # [Tamaz J](https://www.upwork.com/freelancers/~01adf600ffe70b655d)
 <table>
   <tr>
@@ -274,4 +274,7 @@ Please don't waste 25 $ on this. I can teach you how to do it in 1 min by yourse
 
 
 ###  Winning Proposal
+
+--> 
+
 
