@@ -205,7 +205,7 @@ https://www.cv-library.co.uk/developers/job-search-api
 ###  Winning Proposal
 
 
-# [Vano K.](https://www.upwork.com/fl/vanokhuroshvili)
+# [Niko P.](https://www.upwork.com/fl/nikopeikrishvili)
 <table>
   <tr>
      <th>Client paid  </th>
@@ -213,7 +213,7 @@ https://www.cv-library.co.uk/developers/job-search-api
      <th>Trial </th>
   </tr>
   <tr>
-     <td>3050 $ (Hourly 40$/h) </td>
+     <td>33-$ </td>
      <td>-$ </td>
      <td> -th try </td>
   </tr>
@@ -221,16 +221,14 @@ https://www.cv-library.co.uk/developers/job-search-api
 
 ### Job Posting 
 
-> AngularJS Developer w/ Nodes.js/Express
+> Fix sendgrid curl code
 
-I am looking for an angularJS developer who has knows nodes.js/express as well.
-Must have
+I have a problem that hotmail doesnt accept my emails when using my curl script to send through sendgrid's API.
 
-1. solid angular experience
-2. good nodes.js/express experience
-3. good mongo or PostgreSQL experience
-4. good English
-5. understand how to set up development and production environments for MEAN stack.
+I need someone that knows php and better yet how email deliverability works.
+
+I need my Curl script to work and deliver emails through sendgrid everytime.
+
 ###  Winning Proposal
 
 
