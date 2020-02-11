@@ -243,14 +243,14 @@ you can use what you want for delete them (program, script etc.)
      <th>Trial </th>
   </tr>
   <tr>
-     <td>-$ </td>
+     <td>295-$ </td>
      <td>-$ </td>
      <td> -th try </td>
   </tr>
 </table>
 
 ### Job Posting 
-
+> Blender 3D - Extreme Beginner's Tutorial
 
 ###  Winning Proposal
 
