@@ -97,3 +97,48 @@ https://codepen.io/devworld/pen/OOJZqp
 This is my github page:
 
 https://github.com/giorgi-ghviniashvili
+
+
+
+
+
+# [1. Beka B.](https://www.upwork.com/fl/beqabumbeishvili)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>- </td>
+     <td>- </td>
+     <td>- </td>
+  </tr>
+</table>
+
+### Job Posting 
+
+I have a D3 graph of lines spoken by characters in a play (see attached screenshot) and I need a few updates to it. There are three issues related to viewing it on an iPad:
+
+
+
+This is used on an iPad so the width of the graph should dynamically update when the device is rotated.
+
+
+It takes two taps on a dot to see the tooltip, but it should only take one tap. Also, when tapping those dots that are close to the left edge, the tooltip goes off the left edge.
+
+
+When tapping & dragging on the bottom graph, a magnifying glass should appear while dragging.
+
+
+It uses the latest version of D3 (5.0rc4).
+
+###  Winning Proposal
+
+Hello
+
+I'm a web developer focused on building data visualization with d3.js
+
+have a look at my projects here -> https://beqa-bumbeishvili.github.io/d3-portfolio/gallery.html
+
+I think fixing described issues will take me 3-4 hours and will be delivered today
