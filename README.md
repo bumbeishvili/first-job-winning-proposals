@@ -1,14 +1,15 @@
-# First job winning proposals
 
+
+
+
+# [David B.](https://www.upwork.com/fl/davitbumbeishvili)
 <table>
   <tr>
-     <th>Freelancer </th>
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
   </tr>
   <tr>
-     <td>https://www.upwork.com/fl/davitbumbeishvili </td>
      <td>25$ </td>
      <td>400$ </td>
      <td> First try </td>
