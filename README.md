@@ -202,7 +202,6 @@ Must have
 
 
 # [Giorgi M.](https://www.upwork.com/freelancers/~01e6b2f814dd779311)
-https://www.upwork.com/jobs/~014310df0bae04a63b
 <table>
   <tr>
      <th>Client paid </th>
@@ -211,8 +210,8 @@ https://www.upwork.com/jobs/~014310df0bae04a63b
   </tr>
   <tr>
      <td>5-$ </td>
-     <td>-$ </td>
-     <td> -th try </td>
+     <td>500-$ </td>
+     <td> 20-th try </td>
   </tr>
 </table>
 
@@ -233,7 +232,9 @@ please only send me fix prices.
 you can use what you want for delete them (program, script etc.)
 
 ###  Winning Proposal
+Hello,
 
+Please don't waste 25 $ on this. I can teach you how to do it in 1 min by yourself for 5 bucks and a good feedback : )
 
 # [Alfred T.](https://www.upwork.com/freelancers/~0154374c8ddb169bfd)
 <table>
