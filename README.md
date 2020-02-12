@@ -8,6 +8,7 @@
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
+     <th>Platform </th>
   </tr>
   <tr>
      <td>25$ </td>
@@ -64,6 +65,7 @@ Please contact , if you decide to hire me for this job
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
+     <th>Platform </th>
   </tr>
   <tr>
      <td>30$ </td>
@@ -108,6 +110,7 @@ https://github.com/giorgi-ghviniashvili
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
+     <th>Platform </th>
   </tr>
   <tr>
      <td>75$ </td>
@@ -150,6 +153,7 @@ I think fixing described issues will take me 3-4 hours and will be delivered tod
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
+     <th>Platform </th>
   </tr>
   <tr>
      <td>5-$ </td>
@@ -185,6 +189,7 @@ Please don't waste 25 $ on this. I can teach you how to do it in 1 min by yourse
      <th>Client paid  </th>
      <th>Current project estimate </th>
      <th>Trial </th>
+      <th>Platform </th>
   </tr>
   <tr>
      <td>33-$ </td>
@@ -222,6 +227,7 @@ did your domain have SPF record? if not I know what is problem and I can solve t
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
+     <th>Platform </th>
   </tr>
   <tr>
      <td>40-$ </td>
@@ -251,6 +257,7 @@ https://www.cv-library.co.uk/developers/job-search-api
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
+      <th>Platform </th>
   </tr>
   <tr>
      <td>295-$ </td>
@@ -271,6 +278,7 @@ https://www.cv-library.co.uk/developers/job-search-api
      <th>Client paid </th>
      <th>Current project estimate </th>
      <th>Trial </th>
+     <th>Platform </th>
   </tr>
   <tr>
      <td>-$ </td>
