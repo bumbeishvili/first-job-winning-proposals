@@ -283,12 +283,12 @@ In case you hire me I will integrate this script for your form in very short tim
 Regards,
 Nika less
 
-* [ ] What past project or job have you had that is most like this one and why?
+ <b>What past project or job have you had that is most like this one and why?</b>
 I HAVE ALREADY DONE THIS PROJECT FOR YOU.
 
 Please see cover letter.
 
-* [ ] Have you taken any oDesk tests and done well on them that you think are relevant to this job?
+ <b>Have you taken any oDesk tests and done well on them that you think are relevant to this job?</b>
 I HAVE ALREADY DONE THIS PROJECT FOR YOU.
 
 Please see cover letter.
