@@ -14,6 +14,7 @@
      <td>25$ </td>
      <td>400$ </td>
      <td> First try </td>
+      <td> Upwork </td>
   </tr>
 </table>
 
@@ -71,6 +72,7 @@ Please contact , if you decide to hire me for this job
      <td>30$ </td>
      <td>500$ </td>
      <td> 5-th try </td>
+     <td> Upwork </td>
   </tr>
 </table>
 
@@ -116,6 +118,7 @@ https://github.com/giorgi-ghviniashvili
      <td>75$ </td>
      <td>200$ </td>
      <td> 5-th try </td>
+     <td> Upwork </td>
   </tr>
 </table>
 
@@ -159,6 +162,7 @@ I think fixing described issues will take me 3-4 hours and will be delivered tod
      <td>5-$ </td>
      <td>500-$ </td>
      <td> 20-th try </td>
+     <td> Upwork </td>
   </tr>
 </table>
 
@@ -195,6 +199,7 @@ Please don't waste 25 $ on this. I can teach you how to do it in 1 min by yourse
      <td>33-$ </td>
      <td>100-$ </td>
      <td>19 -th try </td>
+     <td> Upwork </td>
   </tr>
 </table>
 
@@ -233,6 +238,7 @@ did your domain have SPF record? if not I know what is problem and I can solve t
      <td>40-$ </td>
      <td>-$ </td>
      <td> -th try </td>
+     <td> Upwork </td>
   </tr>
 </table>
 
@@ -263,6 +269,7 @@ https://www.cv-library.co.uk/developers/job-search-api
      <td>295-$ </td>
      <td>-$ </td>
      <td> -th try </td>
+     <td> Upwork </td>
   </tr>
 </table>
 
@@ -284,6 +291,7 @@ https://www.cv-library.co.uk/developers/job-search-api
      <td>-$ </td>
      <td>-$ </td>
      <td> -th try </td>
+     <td> Upwork </td>
   </tr>
 </table>
 
