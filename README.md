@@ -179,6 +179,42 @@ Hello,
 
 Please don't waste 25 $ on this. I can teach you how to do it in 1 min by yourself for 5 bucks and a good feedback : )
 
+# [5. Niko P.](https://www.upwork.com/fl/nikopeikrishvili)
+<table>
+  <tr>
+     <th>Client paid  </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+  </tr>
+  <tr>
+     <td>33-$ </td>
+     <td>100-$ </td>
+     <td>19 -th try </td>
+  </tr>
+</table>
+
+### Job Posting 
+
+> Fix sendgrid curl code
+
+I have a problem that hotmail doesnt accept my emails when using my curl script to send through sendgrid's API.
+
+I need someone that knows php and better yet how email deliverability works.
+
+I need my Curl script to work and deliver emails through sendgrid everytime.
+
+###  Winning Proposal
+
+Hello, I habe big experience working with API over PHP and of course I have experince using CURL, I
+start to read documentation of sendgrid and I can help you with this.
+
+ <b>What past project or job have you had that is most like this one and why?</b>
+
+I dont heve on odesk job like this
+
+ <b>What questions do you have about the project?</b>
+
+did your domain have SPF record? if not I know what is problem and I can solve this problem.
 
 # [Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
 <table>
@@ -205,31 +241,6 @@ https://www.cv-library.co.uk/developers/job-search-api
 ###  Winning Proposal
 
 
-# [Niko P.](https://www.upwork.com/fl/nikopeikrishvili)
-<table>
-  <tr>
-     <th>Client paid  </th>
-     <th>Current project estimate </th>
-     <th>Trial </th>
-  </tr>
-  <tr>
-     <td>33-$ </td>
-     <td>-$ </td>
-     <td> -th try </td>
-  </tr>
-</table>
-
-### Job Posting 
-
-> Fix sendgrid curl code
-
-I have a problem that hotmail doesnt accept my emails when using my curl script to send through sendgrid's API.
-
-I need someone that knows php and better yet how email deliverability works.
-
-I need my Curl script to work and deliver emails through sendgrid everytime.
-
-###  Winning Proposal
 
 
 
