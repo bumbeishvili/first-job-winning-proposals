@@ -293,6 +293,43 @@ I HAVE ALREADY DONE THIS PROJECT FOR YOU.
 
 Please see cover letter.
 
+
+# [7. Jambul J](https://www.upwork.com/freelancers/~019be37d775ed01631)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+     <th>Platform </th>
+  </tr>
+  <tr>
+     <td>10-$ </td>
+     <td>100-$ </td>
+     <td> 5-th try </td>
+     <td> Upwork </td>
+  </tr>
+</table>
+
+### Job Posting 
+> CMS Customization
+I need some help fixing a couple of bugs before I fully launch a website for a client. 
+
+Things that I will need:  
+• The website looks great on the computer but is not so appealing on mobile, anything we can do for it to look great on mobile as well.  
+• When I type in the name into google just the facebook page comes up but not the website, maybe something with the SEO for it to come up?  
+• Need help adding a popup subscribe to just the blog page.   
+ 
+I will need help importing the blog pages from the demo (when I tried to do this I lost the entire website so I don't want to do that again), once this is fixed the following point I can take care of:   
+• I need to add a header image to the .com/blog page (I'm having trouble with the temple, it's catching all of the blogs but I can't seem to add a header image)
+
+
+###  Winning Proposal
+Hello, I can help you asap. But i need link to your web site to see whats wrong with mobile version. After that i will decide continue or not Thanks
+
+ <b>Do you have any questions about the job description? </b> . 
+Give me please link to your web site
+
+
 # [Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
 <table>
   <tr>
