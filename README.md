@@ -228,7 +228,7 @@ did your domain have SPF record? if not I know what is problem and I can solve t
 
 
 
-# [Nick T.](https://www.upwork.com/fl/nikatsogiaidze)
+# [6. Nick T.](https://www.upwork.com/fl/nikatsogiaidze)
 <table>
   <tr>
      <th>Client paid </th>
@@ -237,9 +237,9 @@ did your domain have SPF record? if not I know what is problem and I can solve t
      <th>Platform </th>
   </tr>
   <tr>
-     <td>70-$ </td>
-     <td>-$ </td>
-     <td> -th try </td>
+     <td>55-$ </td>
+     <td>100-$ </td>
+     <td> 10-th try </td>
      <td> Upwork </td>
   </tr>
 </table>
