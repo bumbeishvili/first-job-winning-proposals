@@ -226,6 +226,73 @@ I dont heve on odesk job like this
 
 did your domain have SPF record? if not I know what is problem and I can solve this problem.
 
+
+
+# [Nick T.](https://www.upwork.com/fl/nikatsogiaidze)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+     <th>Platform </th>
+  </tr>
+  <tr>
+     <td>70-$ </td>
+     <td>-$ </td>
+     <td> -th try </td>
+     <td> Upwork </td>
+  </tr>
+</table>
+
+### Job Posting 
+
+> Integrate BriteVerify Email Verification Into Web App Form
+
+This is a pretty straight-forward task.
+
+I have a php web app that has a form associated with it. Here's the form:
+
+https://earlyestimator.com/client/load/b6d767d2f8ed5d21a44b0e5886680cb9
+
+It does standard validation checking via js to ensure that an email address is entered for the Student Email field. But I need to validate that the user enters a *real* email address.
+
+So I need you to integrate with my BriteVerify account via their API to do this form email verification & display a "Please enter a valid email address" error message if the user enters an invalid one.
+
+Ideally, you will have worked with BriteVerify before.
+
+Please let me know you read the task by telling me, "I'm real & read this whole task description."
+
+If accomplished quickly & efficiently, there's a possibility for additional work
+
+###  Winning Proposal
+
+I'm real & read this whole task description.
+
+I HAVE ALREADY DONE THIS PROJECT FOR YOU.
+
+I am new on odesk,so it is hard for me to get first job,therefore I have written your project before you hire me and you can see and test it right now on this link: http://villaikalto.ge/brite/index.php
+
+This example is done with my BriteVerify account key.
+
+I have tested and this script works 100% but anyway if you find any problem I can solve it very soon.
+
+In spite I believe my price is minimal,if someone suggests to work with less money I can decrease price for you.
+
+In case you hire me I will integrate this script for your form in very short time.Also any changes you ask appriciated.
+
+Regards,
+Nika less
+
+* [ ] What past project or job have you had that is most like this one and why?
+I HAVE ALREADY DONE THIS PROJECT FOR YOU.
+
+Please see cover letter.
+
+* [ ] Have you taken any oDesk tests and done well on them that you think are relevant to this job?
+I HAVE ALREADY DONE THIS PROJECT FOR YOU.
+
+Please see cover letter.
+
 # [Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
 <table>
   <tr>
