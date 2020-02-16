@@ -365,8 +365,6 @@ Lasha Lomidze.
 
 
 
-###  Winning Proposal
-
 # [Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
 <table>
   <tr>
