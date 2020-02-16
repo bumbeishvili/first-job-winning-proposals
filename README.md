@@ -330,6 +330,27 @@ Hello, I can help you asap. But i need link to your web site to see whats wrong 
 Give me please link to your web site
 
 
+# [Lasha L](https://www.upwork.com/freelancers/~0176e9fa9724d4ff4e)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+     <th>Platform </th>
+  </tr>
+  <tr>
+     <td>5-$ </td>
+     <td>30-$ </td>
+     <td> 5-th try </td>
+     <td> Upwork </td>
+  </tr>
+</table>
+
+### Job Posting 
+
+
+###  Winning Proposal
+
 # [Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
 <table>
   <tr>
@@ -347,15 +368,21 @@ Give me please link to your web site
 </table>
 
 ### Job Posting 
-> API cv library
-I want to use the cv-library API and list their jobs on my page danky.co.uk.
+We have a "Contact Us" page on our website but the "Contact us" button doesn't go anywhere, we need someone to be able to take the information that is written in the name, e-mail, and inquiry fields and send it to our info@emailaddress.
 
+The webpage is a static HTML page.
 
-Here is a little more info
-https://www.cv-library.co.uk/developers/job-search-api
+This should be quite an easy job for the right person.
 
 ###  Winning Proposal
 
+Hello,
+
+I think I'm the man for the job. I've got 2 years of experience in web development and a bachelor's degree in computer science from International Black Sea University. I'm proficient with HTML5, CSS3, PHP, and JavaScript. I'm also good with PHP and JavaScript frameworks and libraries. Contact form functionality development is an easy task for me because I've worked on various websites which contain this basic, but yet important functionality. Feel free to reply.
+
+Yours sincerely,
+
+Lasha Lomidze.
 
 
 
