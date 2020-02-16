@@ -347,6 +347,22 @@ Give me please link to your web site
 </table>
 
 ### Job Posting 
+We have a "Contact Us" page on our website but the "Contact us" button doesn't go anywhere, we need someone to be able to take the information that is written in the name, e-mail, and inquiry fields and send it to our info@emailaddress.
+
+The webpage is a static HTML page.
+
+This should be quite an easy job for the right person.
+
+###  Winning Proposal
+
+Hello,
+
+I think I'm the man for the job. I've got 2 years of experience in web development and a bachelor's degree in computer science from International Black Sea University. I'm proficient with HTML5, CSS3, PHP, and JavaScript. I'm also good with PHP and JavaScript frameworks and libraries. Contact form functionality development is an easy task for me because I've worked on various websites which contain this basic, but yet important functionality. Feel free to reply.
+
+Yours sincerely,
+
+Lasha Lomidze.
+
 
 
 ###  Winning Proposal
@@ -367,22 +383,6 @@ Give me please link to your web site
   </tr>
 </table>
 
-### Job Posting 
-We have a "Contact Us" page on our website but the "Contact us" button doesn't go anywhere, we need someone to be able to take the information that is written in the name, e-mail, and inquiry fields and send it to our info@emailaddress.
-
-The webpage is a static HTML page.
-
-This should be quite an easy job for the right person.
-
-###  Winning Proposal
-
-Hello,
-
-I think I'm the man for the job. I've got 2 years of experience in web development and a bachelor's degree in computer science from International Black Sea University. I'm proficient with HTML5, CSS3, PHP, and JavaScript. I'm also good with PHP and JavaScript frameworks and libraries. Contact form functionality development is an easy task for me because I've worked on various websites which contain this basic, but yet important functionality. Feel free to reply.
-
-Yours sincerely,
-
-Lasha Lomidze.
 
 
 
