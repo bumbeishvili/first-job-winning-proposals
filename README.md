@@ -294,7 +294,7 @@ I HAVE ALREADY DONE THIS PROJECT FOR YOU.
 Please see cover letter.
 
 
-# [7. Jambul J](https://www.upwork.com/freelancers/~019be37d775ed01631)
+# [7. Jambul J.](https://www.upwork.com/freelancers/~019be37d775ed01631)
 <table>
   <tr>
      <th>Client paid </th>
@@ -330,7 +330,7 @@ Hello, I can help you asap. But i need link to your web site to see whats wrong 
 Give me please link to your web site
 
 
-# [Lasha L](https://www.upwork.com/freelancers/~0176e9fa9724d4ff4e)
+# [8. Lasha L.](https://www.upwork.com/freelancers/~0176e9fa9724d4ff4e)
 <table>
   <tr>
      <th>Client paid </th>
