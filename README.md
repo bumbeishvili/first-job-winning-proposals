@@ -365,7 +365,7 @@ Lasha Lomidze.
 
 
 
-# [Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
+# [9. Otar Z.](https://www.upwork.com/freelancers/~013efa9c17c6cb2ceb)
 <table>
   <tr>
      <th>Client paid </th>
@@ -375,15 +375,41 @@ Lasha Lomidze.
   </tr>
   <tr>
      <td>40-$ </td>
-     <td>-$ </td>
-     <td> -th try </td>
+     <td>40-$ </td>
+     <td> Firsttry </td>
      <td> Upwork </td>
   </tr>
 </table>
 
 
+### Job Posting 
+I want to use the cv-library API and list their jobs on my page danky.co.uk.
 
 
+Here is a little more info
+https://www.cv-library.co.uk/developers/job-search-api
+
+###  Winning Proposal
+
+Hello,
+
+I am a senior web developer with more than 6 years of experience in the field.
+
+I have experience in many different frameworks and technologies but to focus on your requirements I have researched your website.
+
+Looks like you are using Wordpress on danky.co.uk and these are small list of Wordpress projects I finished recently:
+
+http://kimono.adjara.com/
+https://www.clothtome.com/
+https://rehabreviews.com/
+https://local.thefix.com/
+I also have experience in using third party JSON APIs like CV library's job search API using different approaches including frontend technologies and fetching data with native Javascript or using different libraries like jQuery. Or fetching data on server side using PHP inside Wordpress theme or plugin.
+
+As I mentioned, I have 6+ years experience in web development, but I'm new to Upwork and I'm really excited to win my first project and do my best to make you my first happy client on this platform.
+
+Look forward to hear from you.
+
+Best, Otar
 
 
 # [Alfred T.](https://www.upwork.com/freelancers/~0154374c8ddb169bfd)
