@@ -412,29 +412,10 @@ Look forward to hear from you.
 Best, Otar
 
 
-# [Alfred T.](https://www.upwork.com/freelancers/~0154374c8ddb169bfd)
-<table>
-  <tr>
-     <th>Client paid </th>
-     <th>Current project estimate </th>
-     <th>Trial </th>
-      <th>Platform </th>
-  </tr>
-  <tr>
-     <td>295-$ </td>
-     <td>-$ </td>
-     <td> -th try </td>
-     <td> Upwork </td>
-  </tr>
-</table>
 
-### Job Posting 
-> Blender 3D - Extreme Beginner's Tutorial
-
-###  Winning Proposal
 
 <!--   Template
-# [Tamaz J](https://www.upwork.com/freelancers/~01adf600ffe70b655d)
+# [Name J](FreelanceSiteProfileLink)
 <table>
   <tr>
      <th>Client paid </th>
