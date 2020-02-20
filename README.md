@@ -440,6 +440,7 @@ If you search the product code "30069" and add that product to cart, then go to 
 Hello,
  
 I’ve been working on Shopify Platform for almost 3 years.
+
 Now I’m looking for an oportunity to prove my Skills on Upwork.
  
 This Jobs looks something perfect to do that :)
