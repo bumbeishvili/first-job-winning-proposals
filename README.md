@@ -447,6 +447,50 @@ This Jobs looks something perfect to do that :)
  
 Thanks
 
+# [11. Mariam Tsutskiridze](https://www.upwork.com/fl/mariamtsutskiridze3)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+     <th>Platform </th>
+  </tr>
+  <tr>
+     <td>15-$ </td>
+     <td>20-$ </td>
+     <td> 3-rd try </td>
+     <td> Upwork </td>
+  </tr>
+</table>
+
+### Job Posting 
+
+Hello Guys,
+
+I would like to Trigger a Facebook Pixel When someone clicks a button inside messenger so that I can create a custom conversions based on that and run conversion objective campaign Facebook ads.
+
+Our messenger chatbot is built from manychat but if there is another way that you would to get this job done then we are happy to switch.
+
+We build a chatbot inside manychat and right now when we trigger a pixel using thirdparty software like pixelme.com and uselinkme.com and botblocks.com they open a webview which basically fires a pixel. The problem is that's not a good user experience and we want to make that conversation seemless by firing that webview in the backend and still be able to create custom conversions.
+
+Another problem with opening a webview on desktop is it opens a whole new tab which is also not good for user experience.
+
+I want to be able to fire a pixel and continue to next message like as if nothing happened but pixel is fired on the background.
+
+Message > Button Clicked > Fire Pixel > Another Message
+
+
+If you think you can do this and fire a pixel without opening a webview and still be able ti create custom conversions then apply for this project. And we will discuss the cost of making this happen.
+
+Thanks
+
+###  Winning Proposal
+
+Hi,
+I got interested in your job. It can be done with Iframe, after clicking the button, it will send the information to this webpage where you wanted button clickers to go, this will have pixel code and fires the click, iframe will be no display so the clients won’t see anything.
+I have done something like it for my landing pages with Iframe.
+Thanks,
+Mariam
 
 <!--   Template
 # [Name J](FreelanceSiteProfileLink)
