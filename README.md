@@ -376,7 +376,7 @@ Lasha Lomidze.
   <tr>
      <td>40-$ </td>
      <td>40-$ </td>
-     <td> Firsttry </td>
+     <td> First try </td>
      <td> Upwork </td>
   </tr>
 </table>
