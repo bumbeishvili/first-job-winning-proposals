@@ -411,7 +411,39 @@ Look forward to hear from you.
 
 Best, Otar
 
+# [10. Oto K.](https://www.upwork.com/freelancers/~01a6938858bfb3160b)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+     <th>Platform </th>
+  </tr>
+  <tr>
+     <td>70-$ </td>
+     <td>80-$ </td>
+     <td>25-th try </td>
+     <td> Upwork </td>
+  </tr>
+</table>
 
+### Job Posting 
+> Shopify Custom Coding
+Ecommerce Development 
+The site I need work done on is https://www.stationeryrus.com.au/  ONLY APPLY IF YOU UNDERSTAND AND CAN ACHIEVE THE BELOW RESULT... 
+ 
+If you search the product code "30069" and add that product to cart, then go to cart, you'll see what I want to be updated. Under the product name you'll see "Single Item" which is the first variant for the product. I want that to be a dropdown and show all available variants, so that you can change the variant from the cart. Note that I don't only want it done for this product. I want this functionality to be available to ANY products that have more than 1 variant
+
+
+###  Winning Proposal
+Hello,
+ 
+I’ve been working on Shopify Platform for almost 3 years.
+Now I’m looking for an oportunity to prove my Skills on Upwork.
+ 
+This Jobs looks something perfect to do that :)
+ 
+Thanks
 
 
 <!--   Template
