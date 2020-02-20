@@ -457,7 +457,7 @@ Thanks
   </tr>
   <tr>
      <td>15-$ </td>
-     <td>20-$ </td>
+     <td>50-$ </td>
      <td> 3-rd try </td>
      <td> Upwork </td>
   </tr>
