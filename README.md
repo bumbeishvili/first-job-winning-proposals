@@ -1,13 +1,13 @@
 
 # Foreword
 
-We all know how hard it is to win the job first time, when you don't have a previous experience and you are new in the freelancing Platform.
+We all know how hard it is to win the job first time, when you don't have a previous experience and you are new in the freelancing platform.
 
 This list shows proposals, which won first time job in various freelancing websites.
 
 Hope it will be a big help for beginners.
 
-Proposals are provided without any adjustments, so expect some grammar mistakes here.
+Proposals are provided in raw, without any manual adjustments, so expect some grammar mistakes here.
 
 Contributions  are welcome!
 
