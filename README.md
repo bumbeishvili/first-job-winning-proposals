@@ -1,4 +1,8 @@
 
+# Contribution
+
+If you want to include your first client winning  proposal here, please be free to make PR 
+
 # Foreword
 
 We all know how hard it is to win the job first time, when you don't have a previous experience and you are new in the freelancing platform.
