@@ -512,6 +512,46 @@ Thanks,
 
 Mariam
 
+# [12. Lasha Kakabadze](https://www.upwork.com/fl/lashakakabadze2)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+     <th>Platform </th>
+  </tr>
+  <tr>
+     <td>350-$ </td>
+     <td>350-$ </td>
+     <td> 10-th try </td>
+     <td> Upwork </td>
+  </tr>
+</table>
+
+### Job Posting 
+> Create responsive web from a finished design
+
+From designs already uploaded into Zeplin, we need a front-end developer to finish our project's landing page website.
+
+It will be required to have multilanguage support.
+
+Fonts, colours and illustrations will be provided / available to download from Zeplin.
+
+The selected freelancer will receive access to the Zeplin project under request via Upwork chat. 
+
+###  Winning Proposal
+
+Hi there,
+
+I just read your posting. It sounds like you need an React Developer to help you create your website.
+
+My professional experience includes bringing UX design to life through semantic and responsive HTML/CSS as well as collaborating with backend to create stellar finished product.
+
+Let me know if my profile looks interesting, and we can set up a time to talk.
+
+Best regards,
+
+Lasha
 <!--   Template
 # [Name J](FreelanceSiteProfileLink)
 <table>
