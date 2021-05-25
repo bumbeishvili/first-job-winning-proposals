@@ -76,7 +76,7 @@ Please contact , if you decide to hire me for this job
 
 
 
-# [2. Giorgi G.](https://www.upwork.com/fl/giorgighviniashvili)
+# [2. Giorgi G.](https://www.upwork.com/freelancers/~01ec016f01e9a4f8d1)
 <table>
   <tr>
      <th>Client paid </th>
