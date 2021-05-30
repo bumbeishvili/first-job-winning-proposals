@@ -554,6 +554,56 @@ Best regards,
 Lasha
 
 
+
+
+
+# [Mikael G](https://www.upwork.com/freelancers/mikegogl)
+<table>
+  <tr>
+     <th>Client paid </th>
+     <th>Current project estimate </th>
+     <th>Trial </th>
+     <th>Platform </th>
+  </tr>
+  <tr>
+     <td> 50$ </td>
+     <td> N/A </td>
+     <td> 15-th try </td>
+     <td> Upwork </td>
+  </tr>
+</table>
+
+### Job Posting 
+Looking to create a simple, beautiful & responsive website in a short space of time (1 week max)  to test on a focus group.
+
+It's an absolute must that it allows for question answering & picture uploading in a user-friendly & fast manner.
+
+The data gathered has to be sent to myself or specified email.
+
+The website has to be able to gather user's email and send automated email.
+
+Also looking to integrate WhatsApp chat link into the website for user to give feedback/ask for help.
+
+Please contact me if you can do the above in a short space of time on a small budget.
+
+###  Winning Proposal
+Hey!
+
+I can help you out with this.
+
+I specialize in fully responsive websites, and I can make them look great!
+
+I can also help you with a simple dashboard panel to collect user details, and send you automted emails when they sign up or leave their detials.
+
+Some of my latest work:
+
+https://goglichidze.me
+https://psychotherapy.ge
+
+Let me know if you have any questions.
+
+
+
 <!--   Template
 # [Name J](FreelanceSiteProfileLink)
 <table>
@@ -577,5 +627,3 @@ Lasha
 ###  Winning Proposal
 
 --> 
-
-
